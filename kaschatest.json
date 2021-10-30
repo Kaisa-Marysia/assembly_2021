@@ -197,7 +197,7 @@
         {
          "columns":64,
          "firstgid":106,
-         "image":"..\/..\/..\/git\/assembly_2021\/assets\/externalTileset\/pipoya\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[A]_type3\/[A]Water5_pipo.png",
+         "image":"/assets\/externalTileset\/pipoya\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[A]_type3\/[A]Water5_pipo.png",
          "imageheight":192,
          "imagewidth":2048,
          "margin":0,
