@@ -1071,19 +1071,6 @@
          "tilecount":2,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":1733,
-         "image":"..\/..\/..\/Downloads\/Community-Management-Meme.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"Community-Management-Meme",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
